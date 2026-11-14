@@ -1,5 +1,10 @@
 # Image Classifier Using Pre-Trained Models in Keras
 
+This repository contains the example code for our [article on pre-trained deep
+learning models with Keras][article].
+
+[article]: https://innolitics.com/articles/pretrained-models-with-keras/
+
 Train, predict, visualize, and produce class-activation map animations for deep
 learning models in Keras using pre-trained models as their basis.
 
@@ -65,3 +70,14 @@ To make the generation of CAM plots easier, you can use the
 # Generate CAM plots for the first 100 images of a character
 ./generate_cam_gifs {model} {character}
 ```
+
+## About Innolitics
+
+Innolitics is a team of talented software developers with medical and
+engineering backgrounds. Our mission is to accelerate progress in medical
+imaging by sharing knowledge, creating tools, and providing quality services to
+our clients, with the ultimate purpose of improving patient health.  If you are
+working on a project that requires image processing or deep learning expertise,
+let us know!  We offer [consulting and development services][company-site].
+
+[company-site]: https://innolitics.com/
